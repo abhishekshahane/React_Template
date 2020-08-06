@@ -1,4 +1,4 @@
-# c36PdbCg
+# React_Template
 
 Quick start:
 
